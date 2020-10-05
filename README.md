@@ -1,6 +1,6 @@
-### Hi! This is Cody 👋
+### Hi! This is Wesley 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=tianyunchn&count_private=true&show_icons=true" width="400" alt="DerekDick's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tianyunchn&count_private=true&show_icons=true" width="400" alt="Wesley's GitHub Stats" />
 
 - 📫 How to reach me:
   - WeChat: <img src="./wechat.jpeg" width="100" alt="WeChat QR code" />
